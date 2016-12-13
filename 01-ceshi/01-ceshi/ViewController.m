@@ -14,11 +14,13 @@
 
 @implementation ViewController
 
+
+//通知的用法
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
-
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
